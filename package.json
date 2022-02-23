@@ -1,0 +1,16 @@
+{
+  "name": "meeting-live-transcription-only",
+  "version": "1.0.0",
+  "source": "index.html",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel --dist-dir docs",
+    "build": "parcel build --dist-dir docs"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  },
+  "dependencies": {
+    "webex": "^1.154.2"
+  }
+}
