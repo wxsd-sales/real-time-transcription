@@ -13,10 +13,10 @@
   <p align="center">
   subscribe to meeting transcription context using Webex SDK internal plugin! 
     <br />
-    <a href="https://wxsd-sales.github.io/real-time-transcription"><strong>Explore the docs »</strong></a>
+    <a href="https://wxsd-sales.github.io/Sample-App-Transcription"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://wxsd-sales.github.io/Sample-App-Transcription/">View Demo</a>
+    <a href="https://wxsd-sales.github.io/real-time-transcription/">View Demo</a>
     ·
     <a href="https://github.com/WXSD-Sales/Sample-App-Transcription/issues">Report Bug</a>
     ·
