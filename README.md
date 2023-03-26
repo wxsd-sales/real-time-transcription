@@ -5,8 +5,14 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-###Native Feature Alert 
-This feature is now available on [browser sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/%40webex/plugin-meetings#enable-receiving-meeting-real-time-transcripts)
+<br />
+<p align="center">
+  <h2 align="center">Native Feature Alert</h2>
+
+  <p align="center">
+  This feature is now available on [browser sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/%40webex/plugin-meetings#enable-receiving-meeting-real-time-transcripts)
+  </p>
+</p>
 
 
 <!-- PROJECT LOGO -->
