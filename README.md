@@ -10,7 +10,7 @@
   <h2 align="center">Native Feature Alert</h2>
 
   <p align="center">
-  This feature is now available on [browser sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/%40webex/plugin-meetings#enable-receiving-meeting-real-time-transcripts)
+  This feature is now available on <a href="(https://github.com/webex/webex-js-sdk/tree/master/packages/%40webex/plugin-meetings#enable-receiving-meeting-real-time-transcripts)"> browser sdk </a>
   </p>
 </p>
 
