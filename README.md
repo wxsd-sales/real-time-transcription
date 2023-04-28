@@ -24,6 +24,8 @@
   </p>
 </p>
 
+ *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
+ 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -54,9 +56,11 @@
 
 In this demo we show how to subscribe to receive meeting transcription using webex JS SDK.
 
-### Built With
-
+### Prerequisites & Dependencies: The following instructions assume that you have:
 - [Webex Browser SDK](https://github.com/webex/webex-js-sdk)
+- [Node Version Manager](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
+- [Webex Integration](https://developer.webex.com/docs/integrations) with the following scopes:
+`meeting:schedules_write`
 
 <!-- GETTING STARTED -->
 
